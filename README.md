@@ -17,6 +17,8 @@ This code snippet executes the following tasks:
 
 ```json
 {
+  "selectedGroup": {
     "Id": "7d53a91f-dd9d-41b3-94fb-143bd2fc6854"
+  }
 }
 ```
